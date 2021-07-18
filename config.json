@@ -1,0 +1,21 @@
+{
+    "token": "ODU3NjQ0MjgyMTM5NzcwOTIx.YNSlew.DIHgKQwhSYWNRPGdtorfKVk-LGA",
+    "prefix": ".",
+    "wlrole": "857644634376241232",
+    "helperRole": "857644600591646770",
+    "embedColor": "2c2f33",
+    "m_AlreadyPubing_title": ":x: An advertisement is already underway in this show",
+    "m_AlreadyPubing_description": "Stop the current ad or wait for it to finish before starting a new ad in this room",
+    "m_AlreadyPubing_footer": "Press the cross to cancel the operation",
+    "m_wl_sucess": "just got access to SponsorBot",
+    "m_wl_error": ":x: Impossible de trouver cet utilisateur",
+    "m_wl_null": ":x: Veuillez mentionner la personne à wl",
+    "m_token_invalide_title": ":x: The token is invalid or has expired",
+    "m_token_invalid_description": "It may be that your bot has been banned by discord, or you need to look for a new token in the Discord developer interface",
+    "m_pub_s1_stopped": ":x: Discontinuation of advertising at your request",
+    "m_pub_time_stop_title": ":x: Time Ended",
+    "m_pub_time_stop_description": "The time limit for the current step has expired",
+    "stream": "electrouzz_ so OPPPP"
+
+    
+}
