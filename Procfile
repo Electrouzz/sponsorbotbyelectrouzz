@@ -1,1 +1,1 @@
-"worker: node sponsorbot.js"
+worker: node sponsorbot.js
